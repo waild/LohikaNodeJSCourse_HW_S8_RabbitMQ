@@ -1,0 +1,12 @@
+{
+  "RabbitMQ": {
+    "url": "amqp://localhost",
+    "reservationQueueName": "reservations",
+    "notificationQueueName": "notifications"
+  },
+  "MailSettings":{
+    "silent": false,
+    "smtpPort": 465,
+    "smtpHost": "smtp.gmail.com"
+  }
+}
