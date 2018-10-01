@@ -1,0 +1,7 @@
+{
+  "RabbitMQ": {
+    "url": "amqp://localhost",
+    "reservationQueueName": "reservations",
+    "notificationQueueName": "notifications"
+  }
+}
